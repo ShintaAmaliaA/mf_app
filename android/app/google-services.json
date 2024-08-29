@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003650467954",
+    "firebase_url": "https://moneyapp-feea4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moneyapp-feea4",
+    "storage_bucket": "moneyapp-feea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003650467954:android:824d71089961490190daeb",
+        "android_client_info": {
+          "package_name": "com.example.mf_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003650467954-me863jnfft05prtnf7pac5c2hu2usgqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mf_app",
+            "certificate_hash": "15b368dc3b7919ae8050e2e9839d6d9155101e8e"
+          }
+        },
+        {
+          "client_id": "1003650467954-ra8h67htucge1v5kr4bu7urm7t5nlc2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_iEVHi2bvV434tfttineey8Xx-rWIPBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003650467954-ra8h67htucge1v5kr4bu7urm7t5nlc2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
